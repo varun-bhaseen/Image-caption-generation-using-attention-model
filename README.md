@@ -4,7 +4,6 @@
 ## Video Presentation Links
 
 Full - https://drive.google.com/file/d/1GNtassuNpYC2YWWuV6kx7b2mSb6SNKek/view?usp=sharing
-Short - https://github.com/poornaprag/deep_learning_project/blob/master/Project_Presentation_Short.mp4?raw=true  
 
 
 ## Hosted on:
